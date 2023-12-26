@@ -1,0 +1,14 @@
+../App/src/lcd/st7735.c:40:13:TransferDoneISR	3
+../App/src/lcd/st7735.c:58:6:st7735Init	1
+../App/src/lcd/st7735.c:73:6:st7735InitDriver	1
+../App/src/lcd/st7735.c:86:6:st7735Reset	1
+../App/src/lcd/st7735.c:114:10:st7735GetWidth	1
+../App/src/lcd/st7735.c:119:10:st7735GetHeight	1
+../App/src/lcd/st7735.c:124:6:writecommand	1
+../App/src/lcd/st7735.c:134:6:writedata	1
+../App/src/lcd/st7735.c:146:6:st7735InitRegs	1
+../App/src/lcd/st7735.c:226:6:st7735SetRotation	5
+../App/src/lcd/st7735.c:250:6:st7735SetWindow	1
+../App/src/lcd/st7735.c:269:6:st7735FillRect	11
+../App/src/lcd/st7735.c:304:6:st7735SendBuffer	1
+../App/src/lcd/st7735.c:322:6:st7735SetCallBack	1

@@ -1,0 +1,3 @@
+../App/src/pwm.c:14:6:pwmInit	16	static
+../App/src/pwm.c:22:6:pwmWrite	16	static
+../App/src/pwm.c:38:10:pwmRead	24	static

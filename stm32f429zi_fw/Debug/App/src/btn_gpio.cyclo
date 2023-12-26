@@ -1,0 +1,2 @@
+../App/src/btn_gpio.c:32:6:btnGpioInit	1
+../App/src/btn_gpio.c:38:6:btnGpioGetPressed	3

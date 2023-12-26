@@ -1,0 +1,2 @@
+../App/src/btn_gpio.c:32:6:btnGpioInit	16	static
+../App/src/btn_gpio.c:38:6:btnGpioGetPressed	24	static

@@ -1,0 +1,11 @@
+../App/src/spi.c:25:6:spiInit	16	static
+../App/src/spi.c:38:6:spiBegin	24	static
+../App/src/spi.c:72:6:spiSetDataMode	24	static
+../App/src/spi.c:110:6:spiSetBitWidth	24	static
+../App/src/spi.c:126:9:spiTransfer8	32	static
+../App/src/spi.c:139:10:spiTransfer16	40	static
+../App/src/spi.c:171:6:spiDmaTxStart	32	static
+../App/src/spi.c:183:6:spiDmaTxTransfer	32	static
+../App/src/spi.c:208:6:spiDmaTxIsDone	24	static
+../App/src/spi.c:217:6:spiAttachTxInterrupt	24	static
+../App/src/spi.c:233:6:HAL_SPI_TxCpltCallback	24	static

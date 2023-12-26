@@ -1,0 +1,3 @@
+../App/src/adc.c:15:6:adcInit	1
+../App/src/adc.c:27:10:adcRead	1
+../App/src/adc.c:59:10:adcReadVoltage	1

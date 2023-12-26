@@ -1,0 +1,6 @@
+../App/src/clcd/CLCD.c:39:6:CLCD_Write_Instruction	9
+../App/src/clcd/CLCD.c:70:6:CLCD_Write_Display	9
+../App/src/clcd/CLCD.c:102:6:CLCD_Gotoxy	3
+../App/src/clcd/CLCD.c:114:6:CLCD_Puts	2
+../App/src/clcd/CLCD.c:126:6:CLCD_Init	1
+../App/src/clcd/CLCD.c:140:6:CLCD_Clear	1

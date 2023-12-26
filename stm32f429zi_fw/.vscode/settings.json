@@ -1,0 +1,12 @@
+{
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.armToolchainPath": false,
+    "files.associations": {
+        "cli.h": "c",
+        "gpio.h": "c",
+        "clcd.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "def.h": "c"
+    }
+}
